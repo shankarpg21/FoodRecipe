@@ -1,0 +1,12 @@
+.search{    
+    margin: 30px auto;
+    position: relative;
+    width: 400px;
+}
+
+.input{
+    border: none;
+    padding:20px;
+    font-size:18px;
+    box-shadow: 2px 4px 6px rgb(0,0,0,0.3);
+}
